@@ -1,0 +1,9 @@
+print "Cuantos anos tiene?"
+age = raw_input()
+print "Cual es su altura?"
+height = raw_input()
+print "Cual es su peso?",
+weight = raw_input()
+
+print "Entonces, Usted tiene %r Anos, %r Cm de altura and %r Kg de peso." % (
+    age, height, weight)

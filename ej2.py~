@@ -1,0 +1,6 @@
+print "Tendria un codigo como este." # Esto es un comentario
+
+# Se puede desabilitar oo comentar una parte del codigo
+# print "This won't run."
+
+print "This will run."
